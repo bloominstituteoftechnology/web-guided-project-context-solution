@@ -1,14 +1,16 @@
-import React from 'react';
+import React, {useContext} from 'react';
 
 import Parents from './Parents';
 import Siblings from './Siblings';
+import { FamilyContext } from './../App';
 
-// TODO: consume data via context instead of props
 
-export default function FamilyTree(props) {
+export default function FamilyTree() {
+  const family = useContext(FamilyContext);
+
   return (
     <section className="FamilyTree">
-      <h1>{props.family.familyName}</h1>
+      <h1>{family.familyName}</h1>
       <h2>Parents</h2>
       <Parents />
       <div className="spacer" />
