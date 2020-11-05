@@ -1,7 +1,5 @@
 import React from 'react';
-import { render, useState } from 'react-dom';
-import './styles.scss';
-import data from './data';
+import { render } from 'react-dom';
 import App from './App';
 
 render(
