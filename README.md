@@ -196,6 +196,8 @@ const [person] = useContext(PersonContext);
 2. Make sure we export out our context.
 3. Get our data using useContext(Context);
 
+### Breakout for other subcomponents
+
 ### Module Project Review
 * [React Shopping Cart](https://github.com/LambdaSchool/react-shopping-cart/blob/master/README.md)
 
