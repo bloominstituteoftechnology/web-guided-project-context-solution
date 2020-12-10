@@ -215,7 +215,8 @@ https://github.com/LambdaSchool/react-shopping-cart/blob/master/README.md
 Here is a review of today's material.
 
 Key Terminology
-* 📝 *term* - [description](#)
+* 📝 *context api* - [A React Library that allows easy sharing of data across a component hierarchy](https://reactjs.org/docs/context.html)
+* 📝 *the provider pattern* - [A design pattern where in all items contained within an element have access to an elements functionality.](https://blog.flexiple.com/provider-pattern-with-react-context-api/)
 
 Key Concepts
-* 📝 *concept* - [description](#)
+* 📝 *application state* - [The globally accessible data needed with a wide range of components.](https://stackoverflow.com/questions/22883759/what-is-the-difference-between-application-state-and-component-local-state-in-cl)
