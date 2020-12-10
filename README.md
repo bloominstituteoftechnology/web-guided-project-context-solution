@@ -194,51 +194,7 @@ const [person] = useContext(PersonContext);
 ### Walkthrough adding data to subcomponents
 1. useContext within subcomponent.
 2. Make sure we export out our context.
-3. 
-
-### Describe Context
-
-Explain what the context API is. I caution students not to use context too often by reading through the first paragraph in the **Before You Use Context** section in the [docs](https://reactjs.org/docs/context.html#before-you-use-context)
-
-I usually draw out a component tree then discuss how data flow works with props, then explain how it would work with context/
-
-### The Sandbox App
-
-Help students look through the app so that you are all familiar with the data flow. Find which components are receiving data via props that we want to refactor to use context. Write this plan out with the students.
-
-This can be done by having the students look through the app on their own and comment what they notice in a slack thread
-
-### Creating the Context Object
-
-- `import { createContext } from 'react';`
-- Create a context object called `FamilyContext` - `export const FamilyContext = createContext();`
-- console.log the context object and point out `Provider` and `Consumer`
-  - these are capitalized because they are React components that we can render in our JSX
-
-### Context Provider
-- Wrap the component tree in the context Provider
-- explain how we will use the `value` prop on the Provider to "provide" data to the component tree
-- Pass the `activeFamily` state into the value prop
-- Using the React dev tools, highlight the Provider component and show the family data being passed in
-  - click on different families to show that when the state in `App.js` changes, that will be reflected in the Provider
-  
-### Context Consumer
-I like to show one component with render props (see `Parent.js` in the solution sandbox) and one with the `useContext` hook (see `Siblings.js` in the solution sandbox). That way students see both ways that we can "consume" data in a child component
-- In one of the components that you have chosen, consume data via context, whether that is with the render prop pattern or hook pattern (If you choose to show the render prop pattern, walk through it slowly, explaining each line of code thouroughly)
-- Show the component in the React dev tools
-
-### Breakout Session (optional)
-- Choose another component that could potentially consume data from context. 
-- Give students 10 minutes to work on using context vs props
-- add this task list to slack so they know what to work on:
-```
-*Tasks* - Working in the `<component_name>`component:
-- import the context object and the `useContext` hook
-- call the context hook and pass in the context object and capture the returned value in a variable
-- reference your context data in your JSX in place of referencing it with props
-- make sure the app is still working
-```
-
+3. Get our data using useContext(Context);
 
 ### Module Project Review
 * [React Shopping Cart](https://github.com/LambdaSchool/react-shopping-cart/blob/master/README.md)
