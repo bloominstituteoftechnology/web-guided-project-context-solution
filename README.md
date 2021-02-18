@@ -30,7 +30,7 @@ By the end of this module, learners should be able to:
 > :point_right: Technical issues spinning up the project? Please head over to the help channel!
 > :point_right: If you fall behind during lecture and wish to catch up:
 >
-> git fetch && git reset --hard origin/lecture
+> `git fetch && git reset --hard origin/lecture`
 >
 > :point_right: Slido event: *insert slido link*
 
@@ -40,9 +40,12 @@ By the end of this module, learners should be able to:
 > Unit 3 | Sprint 2 | **Module 4: Context API**
 > _______________________________________________________
 > Zoom Link : *insert zoom link*
+>
 > Slido: *insert slido link*
+>
 > Guided Project: https://github.com/LambdaSchool/web-guided-project-async-redux
-> Module Project: https://github.com/LambdaSchool/react-shopping-cart/blob/master/README.md
+>
+> Module Project: https://github.com/LambdaSchool/react-shopping-cart/
 
 ----
 
