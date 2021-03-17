@@ -213,7 +213,7 @@ const [person] = useContext(PersonContext);
 ## After Class Message
 Hope you all enjoyed today's guided Lesson!
 
-A reminder if that office hours are from 3:30 - 4:00 Lambda Time. 
+A reminder if that office hours are from 2:30 - 3:00 Lambda Time. 
 
 Don't forget to complete the days Check for Understanding and Pulse Checks! 
 
