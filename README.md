@@ -16,33 +16,38 @@ By the end of this module, learners should be able to:
 ----
 
 ## Instructor Resources
-* 🐙 [Guided Project Starter](https://github.com/LambdaSchool/web-guided-project-async-redux)
-* 🐙 [Guided Project Solution](https://github.com/LambdaSchool/web-guided-project-async-redux-solution)
-* 🐙 [Module Project](https://github.com/LambdaSchool/react-shopping-cart/blob/master/README.md)
-* 🐙 [Module Project Solution](#)
+* 🐙 [Guided Project Starter](https://github.com/LambdaSchool/web-guided-project-context)
+* 🐙 [Guided Project Solution]https://github.com/LambdaSchool/web-guided-project-context-solution)
+* 🐙 [Module Project](https://github.com/LambdaSchool/web-module-project-context)
+* 🐙 [Module Project Solution](https://github.com/LambdaSchool/web-module-project-context-solution)
 
 ----
 
 ## Guided Project Slack Message
-> 1. Clone without forking the following repo: *base guided project repo*
+> **Welcome to Unit 3**
+> 1. Clone without forking the following repo: https://github.com/LambdaSchool/web-guided-project-context
 > 2. Navigate into both the review and followAlong folders and run npm i to load dependences.
 >
 > :point_right: Technical issues spinning up the project? Please head over to the help channel!
+>
 > :point_right: If you fall behind during lecture and wish to catch up:
 >
-> git fetch && git reset --hard origin/lecture
+> `git fetch && git reset --hard origin/lecture`
 >
-> :point_right: Slido event: *insert slido link*
+> :point_right: Slido event: https://app.sli.do/event/msea4w8q
 
 ----
 
 ## Guided Project Zoom Invitation:
-> Unit 3 | Sprint 2 | **Module 4: Context API**
+> **Unit 3 | Sprint 2 | Module 4: Context API**
 > _______________________________________________________
-> Zoom Link : *insert zoom link*
-> Slido: *insert slido link*
-> Guided Project: https://github.com/LambdaSchool/web-guided-project-async-redux
-> Module Project: https://github.com/LambdaSchool/react-shopping-cart/blob/master/README.md
+> Zoom Link : https://lambdaschool.zoom.us/j/3076367334
+>
+> Slido: https://app.sli.do/event/msea4w8q
+>
+> Guided Project: https://github.com/LambdaSchool/web-guided-project-context
+>
+> Module Project: https://github.com/LambdaSchool/web-module-project-context
 
 ----
 
@@ -199,7 +204,7 @@ const [person] = useContext(PersonContext);
 ### Breakout for other subcomponents
 
 ### Module Project Review
-* [React Shopping Cart](https://github.com/LambdaSchool/react-shopping-cart/blob/master/README.md)
+* [React Shopping Cart](https://github.com/LambdaSchool/web-module-project-context)
 
 ## Breakout Slack Messages
 
@@ -207,10 +212,13 @@ const [person] = useContext(PersonContext);
 
 ## After Class Message
 Hope you all enjoyed today's guided Lesson!
-A reminder if that office hours are from 3:30 - 4:30 Lambda Time. Don't forget to complete the days Check for Understanding and Pulse Checks! 
+
+A reminder if that office hours are from 3:30 - 4:00 Lambda Time. 
+
+Don't forget to complete the days Check for Understanding and Pulse Checks! 
 
 Module Project
-https://github.com/LambdaSchool/react-shopping-cart/blob/master/README.md
+https://github.com/LambdaSchool/web-module-project-context
 
 Here is a review of today's material.
 
