@@ -17,7 +17,7 @@ By the end of this module, learners should be able to:
 
 ## Instructor Resources
 * 🐙 [Guided Project Starter](https://github.com/LambdaSchool/web-guided-project-context)
-* 🐙 [Guided Project Solution]https://github.com/LambdaSchool/web-guided-project-context-solution)
+* 🐙 [Guided Project Solution](https://github.com/LambdaSchool/web-guided-project-context-solution)
 * 🐙 [Module Project](https://github.com/LambdaSchool/web-module-project-context)
 * 🐙 [Module Project Solution](https://github.com/LambdaSchool/web-module-project-context-solution)
 
@@ -34,16 +34,16 @@ By the end of this module, learners should be able to:
 >
 > `git fetch && git reset --hard origin/lecture`
 >
-> :point_right: Slido event: https://app.sli.do/event/msea4w8q
+> :point_right: Slido event: **Add Slido Link**
 
 ----
 
 ## Guided Project Zoom Invitation:
 > **Unit 3 | Sprint 2 | Module 4: Context API**
 > _______________________________________________________
-> Zoom Link : https://lambdaschool.zoom.us/j/3076367334
+> Zoom Link : **Add Zoom Link**
 >
-> Slido: https://app.sli.do/event/msea4w8q
+> Slido: **Add Slido Link**
 >
 > Guided Project: https://github.com/LambdaSchool/web-guided-project-context
 >
@@ -217,8 +217,7 @@ A reminder if that office hours are from 2:30 - 3:00 Lambda Time.
 
 Don't forget to complete the days Check for Understanding and Pulse Checks! 
 
-Module Project
-https://github.com/LambdaSchool/web-module-project-context
+Module Project: https://github.com/LambdaSchool/web-module-project-context
 
 Here is a review of today's material.
 
