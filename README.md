@@ -211,19 +211,21 @@ const [person] = useContext(PersonContext);
 ----
 
 ## After Class Message
-Hope you all enjoyed today's guided Lesson!
+**Hope you all enjoyed today's guided Lesson!**
+**A reminder if that office hours are from 2:30 - 3:00 Lambda Time.**
+**Don't forget to complete the days Check for Understanding and Pulse Checks!**
 
-A reminder if that office hours are from 2:30 - 3:00 Lambda Time. 
+**Here is a review of today's material.**
 
-Don't forget to complete the days Check for Understanding and Pulse Checks! 
-
+### Module Materials
 Module Project: https://github.com/LambdaSchool/web-module-project-context
+GP Slides: https://docs.google.com/presentation/d/1f72_l9lp0MPSr17oIO8II35zJULQwBzYtz42g6qRCws/edit?usp=sharing
+Yesterday's Module Project Review: https://www.loom.com/share/e27acd4a457b4f5199c7a56d73c3ac91 PW: zeHVgo
+Alternative GP Video: [Dustin Myers](https://youtu.be/fZGKUeccbKI) | [Josh Jacobson](https://youtu.be/ExgSVmW3pnw)| [Warren C. Longmire](https://youtu.be/a00j4OrWcVo) | [Brian Kirkby](https://youtu.be/RAwdfpd5GNE)
 
-Here is a review of today's material.
-
-Key Terminology
+### Key Terminology
 * 📝 *context api* - [A React Library that allows easy sharing of data across a component hierarchy](https://reactjs.org/docs/context.html)
 * 📝 *the provider pattern* - [A design pattern where in all items contained within an element have access to an elements functionality.](https://blog.flexiple.com/provider-pattern-with-react-context-api/)
 
-Key Concepts
+### Key Concepts
 * 📝 *application state* - [The globally accessible data needed with a wide range of components.](https://stackoverflow.com/questions/22883759/what-is-the-difference-between-application-state-and-component-local-state-in-cl)
