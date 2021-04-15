@@ -220,7 +220,6 @@ const [person] = useContext(PersonContext);
 ### Module Materials
 Module Project: https://github.com/LambdaSchool/web-module-project-context
 GP Slides: https://docs.google.com/presentation/d/1f72_l9lp0MPSr17oIO8II35zJULQwBzYtz42g6qRCws/edit?usp=sharing
-GP Video: (processing)
 Yesterday's Module Project Review: https://www.loom.com/share/e27acd4a457b4f5199c7a56d73c3ac91 PW: zeHVgo
 Alternative GP Video: [Dustin Myers](https://youtu.be/fZGKUeccbKI) | [Josh Jacobson](https://youtu.be/ExgSVmW3pnw)| [Warren C. Longmire](https://youtu.be/a00j4OrWcVo) | [Brian Kirkby](https://youtu.be/RAwdfpd5GNE)
 
