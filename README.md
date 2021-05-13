@@ -41,9 +41,9 @@ By the end of this module, learners should be able to:
 ## Guided Project Zoom Invitation:
 > **Unit 3 | Sprint 2 | Module 4: Context API**
 > _______________________________________________________
-> Zoom Link : **Add Zoom Link**
+> Zoom Link : https://lambdaschool.zoom.us/j/3076367334
 >
-> Slido: **Add Slido Link**
+> Slido: https://app.sli.do/event/msea4w8q
 >
 > Guided Project: https://github.com/LambdaSchool/web-guided-project-context
 >
