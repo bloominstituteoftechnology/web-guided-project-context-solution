@@ -229,3 +229,6 @@ Alternative GP Video: [Dustin Myers](https://youtu.be/fZGKUeccbKI) | [Josh Jacob
 
 ### Key Concepts
 * 📝 *application state* - [The globally accessible data needed with a wide range of components.](https://stackoverflow.com/questions/22883759/what-is-the-difference-between-application-state-and-component-local-state-in-cl)
+
+### Stretch Tutorial
+* 📝 [Context Api In Classes and Hooks](https://www.taniarascia.com/using-context-api-in-react/)
