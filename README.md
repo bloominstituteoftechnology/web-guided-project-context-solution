@@ -1,8 +1,8 @@
 # Sprint 2 - Module 4 : Context API
 
-## [Training Kit](https://github.com/LambdaSchool/Full-Stack-Web-Curriculum/tree/main/03-WebApplications-II/Sprint%2002%20-%20Advanced%20State%20Management/Module%204%20-%20Context%20API)
+## [Training Kit](https://github.com/BloomInstituteOfTechnology/Full-Stack-Web-Curriculum/tree/main/03-WebApplications-II/Sprint%2002%20-%20Advanced%20State%20Management/Module%204%20-%20Context%20API)
 
-### [Previous Lesson Plan](https://github.com/LambdaSchool/Web_ContextAPI_GuidedProject)
+### [Previous Lesson Plan](https://github.com/BloomInstituteOfTechnology/Web_ContextAPI_GuidedProject)
 
 ----
 
@@ -16,16 +16,16 @@ By the end of this module, learners should be able to:
 ----
 
 ## Instructor Resources
-* 🐙 [Guided Project Starter](https://github.com/LambdaSchool/web-guided-project-context)
-* 🐙 [Guided Project Solution](https://github.com/LambdaSchool/web-guided-project-context-solution)
-* 🐙 [Module Project](https://github.com/LambdaSchool/web-module-project-context)
-* 🐙 [Module Project Solution](https://github.com/LambdaSchool/web-module-project-context-solution)
+* 🐙 [Guided Project Starter](https://github.com/BloomInstituteOfTechnology/web-guided-project-context)
+* 🐙 [Guided Project Solution](https://github.com/BloomInstituteOfTechnology/web-guided-project-context-solution)
+* 🐙 [Module Project](https://github.com/BloomInstituteOfTechnology/web-module-project-context)
+* 🐙 [Module Project Solution](https://github.com/BloomInstituteOfTechnology/web-module-project-context-solution)
 
 ----
 
 ## Guided Project Slack Message
 > **Welcome to Unit 3**
-> 1. Clone without forking the following repo: https://github.com/LambdaSchool/web-guided-project-context
+> 1. Clone without forking the following repo: https://github.com/BloomInstituteOfTechnology/web-guided-project-context
 > 2. Navigate into both the review and followAlong folders and run npm i to load dependences.
 >
 > :point_right: Technical issues spinning up the project? Please head over to the help channel!
@@ -45,9 +45,9 @@ By the end of this module, learners should be able to:
 >
 > Slido: https://app.sli.do/event/msea4w8q
 >
-> Guided Project: https://github.com/LambdaSchool/web-guided-project-context
+> Guided Project: https://github.com/BloomInstituteOfTechnology/web-guided-project-context
 >
-> Module Project: https://github.com/LambdaSchool/web-module-project-context
+> Module Project: https://github.com/BloomInstituteOfTechnology/web-module-project-context
 
 ----
 
@@ -204,7 +204,7 @@ const [person] = useContext(PersonContext);
 ### Breakout for other subcomponents
 
 ### Module Project Review
-* [React Shopping Cart](https://github.com/LambdaSchool/web-module-project-context)
+* [React Shopping Cart](https://github.com/BloomInstituteOfTechnology/web-module-project-context)
 
 ## Breakout Slack Messages
 
@@ -218,7 +218,7 @@ const [person] = useContext(PersonContext);
 **Here is a review of today's material.**
 
 ### Module Materials
-Module Project: https://github.com/LambdaSchool/web-module-project-context
+Module Project: https://github.com/BloomInstituteOfTechnology/web-module-project-context
 GP Slides: https://docs.google.com/presentation/d/1f72_l9lp0MPSr17oIO8II35zJULQwBzYtz42g6qRCws/edit?usp=sharing
 Yesterday's Module Project Review: https://www.loom.com/share/e27acd4a457b4f5199c7a56d73c3ac91 PW: zeHVgo
 Alternative GP Video: [Dustin Myers](https://youtu.be/fZGKUeccbKI) | [Josh Jacobson](https://youtu.be/ExgSVmW3pnw)| [Warren C. Longmire](https://youtu.be/a00j4OrWcVo) | [Brian Kirkby](https://youtu.be/RAwdfpd5GNE)
